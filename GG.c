@@ -1,5 +1,13 @@
+
+// Please Include the *.h extendsions and headers 
+
+
 #include<stdio.h>
 #include<math.h>
+
+// Please add comments in the file
+
+
 int main(void)
 {
     int T;
