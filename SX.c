@@ -1,6 +1,14 @@
+
+// Inclusion of *.h extensions
+
+
 #include<stdio.h>
 #include<math.h>
 #include<stdlib.h>
+
+// Code starts
+
+
 int main(void)
 {
     int n;
